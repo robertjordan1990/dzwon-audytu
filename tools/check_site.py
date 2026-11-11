@@ -73,13 +73,22 @@ def main():
             elif u.fragment and target in pages and u.fragment not in pages[target].ids:
                 errors.append(f"{path.relative_to(ROOT)}: missing fragment {raw}")
             checked += 1
-    hashes = 0
+    hashes, listed = 0, set()
     for line in (ROOT / "hash" / "SHA256SUMS.txt").read_text().splitlines():
         digest, name = line.split("  ", 1)
+        if name in listed:
+            errors.append(f"Duplicate checksum entry: {name}")
+        listed.add(name)
         p = ROOT / name
         if not p.is_file() or sha256(p.read_bytes()).hexdigest() != digest:
             errors.append(f"Checksum mismatch: {name}")
         hashes += 1
+    ignored = {".git", "__pycache__", ".venv", "node_modules"}
+    expected = {p.relative_to(ROOT).as_posix() for p in ROOT.rglob("*")
+                if p.is_file() and not any(part in ignored for part in p.relative_to(ROOT).parts)
+                and p.relative_to(ROOT).as_posix() != "hash/SHA256SUMS.txt"}
+    if expected != listed:
+        errors.append(f"Manifest coverage mismatch: missing={sorted(expected-listed)}, extra={sorted(listed-expected)}")
     if errors:
         print("\n".join(errors), file=sys.stderr)
         return 1

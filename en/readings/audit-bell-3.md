@@ -1,6 +1,6 @@
 # Third Audit Bell
 
-**Robert Jordan — original version: 6 June 2026**  
+**Robert Jordan — original version: 6 June 2026**\
 **Documentary position described on the basis of materials available as of 4 June 2026.**
 
 > **Translation note — separate from the author's narrative:** Draft English reading translation of the selectable text of the Polish original, *Trzeci Dzwon Audytu*, `dzwon-3.pdf` (10 pages). This translation retains the original document's dates and evidential qualifications; it does not update the case to the date of translation. Documentary facsimiles remain in the Polish original. Each figure below has a translated caption and a reference to its original PDF page. Repeated running headers are represented by the author, version and documentary-cutoff lines above.
@@ -27,10 +27,10 @@ The second object is a one-page letter dated 19–20 October 2023, circulating a
 
 No knowledge of PAdES or the technical details of signature validation is needed to see the basic problem: a document attributed to the Council of Scientific Excellence (RDN), the central authority competent in matters of academic advancement, is in circulation with a title containing “wszczęścia” instead of “wszczęcia” (the Polish word for “initiation”). The issue, however, is not a stylistic assessment of a document attributed to the Council of Scientific Excellence, but establishing whether RDN confirms that this is its own issuer's version, or whether it is an incoming copy, a secondary reproduction or a document whose origin requires clarification.
 
-**Figure 1.** Extract from the RDN letter of 18 October 2023: RDN links the invalidity proceedings concerning Rafał Wróbel's habilitation to the proceedings for the title of professor as a preliminary issue, indicates the possibility of suspending the case, demands information from ZUT by 20 November 2023 and requests that the matter be treated as urgent.  
+**Figure 1.** Extract from the RDN letter of 18 October 2023: RDN links the invalidity proceedings concerning Rafał Wróbel's habilitation to the proceedings for the title of professor as a preliminary issue, indicates the possibility of suspending the case, demands information from ZUT by 20 November 2023 and requests that the matter be treated as urgent.\
 *Documentary facsimile: Polish original, PDF page 1.*
 
-**Figure 2.** The one-page object dated 19–20 October 2023, circulating as a letter concerning the initiation of invalidity proceedings. The visible linguistic and formal defects are not assessed here as a stylistic issue in their own right; instead, they reinforce the question of the document's origin, the issuer's version and the object's status within ZUT/RDN document circulation.  
+**Figure 2.** The one-page object dated 19–20 October 2023, circulating as a letter concerning the initiation of invalidity proceedings. The visible linguistic and formal defects are not assessed here as a stylistic issue in their own right; instead, they reinforce the question of the document's origin, the issuer's version and the object's status within ZUT/RDN document circulation.\
 *Documentary facsimile: Polish original, PDF page 1.*
 
 The problem must therefore not be reduced to whether a single PDF opens. The question is: what document did the authority produce, what document was signed, what document was sent, what document was received and what document was subsequently used in institutional circulation?
@@ -39,7 +39,7 @@ The problem must therefore not be reduced to whether a single PDF opens. The que
 
 The submission to ABW cited the PUESC result: object integrity impaired / signature invalid, together with the lack of access to the issuer's version and circulation logs. The PUESC result does not automatically determine the cause of the discrepancy or the responsibility of any particular person. It is, however, a firm signal that the version in circulation needs to be compared with the issuer's version and that the source circulation trail needs to be preserved.
 
-**Figure 3.** PUESC report: an invalid/incorrect result for the file presented as RDN letter DRKN.Z2.401.17.2023, together with messages indicating impairment of the signed object's integrity.  
+**Figure 3.** PUESC report: an invalid/incorrect result for the file presented as RDN letter DRKN.Z2.401.17.2023, together with messages indicating impairment of the signed object's integrity.\
 *Documentary facsimile: Polish original, PDF page 2.*
 
 ## 3. Submission to ABW: legal basis and request for a legal hold
@@ -48,7 +48,7 @@ The submission of 7 February 2026 identified a legal basis for ABW's jurisdictio
 
 Most importantly, however, the submission did not merely characterise the problem; it also requested the preservation of evidence: the issuer's version, EZD logs, ePUAP/e-Doręczenia logs, confirmations, attachments and checksums, together with protection against retention-related loss or overwriting.
 
-**Figure 4.** Submission to ABW of 7 February 2026: legal basis, PUESC, the issuer's version, logs and the request for a legal hold.  
+**Figure 4.** Submission to ABW of 7 February 2026: legal basis, PUESC, the issuer's version, logs and the request for a legal hold.\
 *Documentary facsimile: Polish original, PDF page 3.*
 
 ## 4. ABW's first response: narrowing the matter to the absence of a computer-security incident
@@ -57,7 +57,7 @@ Letter B-5899/2026 indicates that ABW acknowledged receipt of the submission and
 
 This matters because the original focus of the submission was the issuer's version, logs and the verifiability of a central authority's document circulation. If ABW considered itself not competent, the key question becomes whether—and which—authority should preserve the source material.
 
-**Figure 5.** ABW's first response, B-5899/2026: a reference to the publication in *Forum Akademickie*, the absence of classification as a computer-security incident and the absence of ABW's subject-matter jurisdiction.  
+**Figure 5.** ABW's first response, B-5899/2026: a reference to the publication in *Forum Akademickie*, the absence of classification as a computer-security incident and the absence of ABW's subject-matter jurisdiction.\
 *Documentary facsimile: Polish original, PDF page 4.*
 
 ## 5. Supplement: the RDN document and system records, rather than a press publication
@@ -66,7 +66,7 @@ Following ABW's response, the submission was clarified. The supplement of 25 Mar
 
 The supplement specifically listed the official RDN letter, wrappers or delivery objects in the RDN documentation, the separate one-page document dated 19–20 October 2023 and the source system records associated with the creation, signing, sending, receipt and storage of the materials.
 
-**Figure 6.** Supplement to the submission to ABW of 25 March 2026: clarification that the matter concerns the official RDN document, wrappers, the second document object and source system records.  
+**Figure 6.** Supplement to the submission to ABW of 25 March 2026: clarification that the matter concerns the official RDN document, wrappers, the second document object and source system records.\
 *Documentary facsimile: Polish original, PDF page 5.*
 
 The supplement also stated that ZUT refuses to provide the source EML/MSG message with full headers, indicates a limited retention period for Microsoft 365 logs and maintains that it is not the authority competent to preserve evidence.
@@ -77,7 +77,7 @@ Following the supplement, ABW maintained its earlier position. In its letter of 
 
 The problem does not disappear, however, because classification as a computer-security incident is declined. The question remains: which state authority is to preserve the issuer's version, EZD, ePUAP and e-Doręczenia logs, metadata and the circulation trail of a central authority's document?
 
-**Figure 7.** ABW's second response, B-9833/2026: maintaining the position that there was no computer-security incident and no ABW subject-matter jurisdiction.  
+**Figure 7.** ABW's second response, B-9833/2026: maintaining the position that there was no computer-security incident and no ABW subject-matter jurisdiction.\
 *Documentary facsimile: Polish original, PDF page 6.*
 
 ## 7. MNiSW: registering the matter, seeking RDN's response and indicating the limits of its jurisdiction
@@ -86,7 +86,7 @@ In parallel, the Ministry of Science and Higher Education (MNiSW) registered the
 
 This creates a practical gap: RDN is the authority whose documents and document circulation are being questioned; ABW declines jurisdiction; MNiSW seeks a response from RDN but distances itself from assessing the individual proceedings. An answer is still missing as to who preserves the source audit trail.
 
-**Figure 8.** MNiSW letter DN-WAN.580.3.2026: registration of the matter and a request to RDN, while distancing itself from the substance of the individual proceedings.  
+**Figure 8.** MNiSW letter DN-WAN.580.3.2026: registration of the matter and a request to RDN, while distancing itself from the substance of the individual proceedings.\
 *Documentary facsimile: Polish original, PDF page 7.*
 
 ## 8. KPRM / Minister-Coordinator: the question of the competent authority
@@ -95,10 +95,10 @@ Consequently, on 4 June 2026 a request was submitted to KPRM / the Minister-Coor
 
 The proof of receipt in e-Doręczenia confirms that the correspondence was delivered to KPRM on 4 June 2026. A response, or the absence of one, will not yet determine the merits of the case, but will become another element in the map of institutional responsibility.
 
-**Figure 9.** Request to KPRM / the Minister-Coordinator for Special Services of 4 June 2026: the submission package's particulars and the question of the authority competent to preserve the trail.  
+**Figure 9.** Request to KPRM / the Minister-Coordinator for Special Services of 4 June 2026: the submission package's particulars and the question of the authority competent to preserve the trail.\
 *Documentary facsimile: Polish original, PDF page 8.*
 
-**Figure 10.** Proof of KPRM's receipt of the correspondence through e-Doręczenia on 4 June 2026.  
+**Figure 10.** Proof of KPRM's receipt of the correspondence through e-Doręczenia on 4 June 2026.\
 *Documentary facsimile: Polish original, PDF page 9.*
 
 ## 9. Scope of this part

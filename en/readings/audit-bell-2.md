@@ -2,8 +2,8 @@
 
 ## RDN, the Voivodeship Administrative Court and a procedure in which the party could not safely choose a route or calculate time limits
 
-**Robert Jordan**  
-**English reading translation — Audit Bell, Part 2**  
+**Robert Jordan**\
+**English reading translation — Audit Bell, Part 2**\
 Polish original: 24/25 May 2026. English translation prepared 11 November 2026.
 
 > Translation note: This companion translates the entire selectable text of the 14-page Polish source, including its figure captions. The document facsimiles remain in the unchanged Polish PDF; their source-page locations are given with the captions. Text appearing only inside those images has not been reconstructed or independently translated. Statements about the stage of proceedings retain the perspective of the dated Polish original. RDN denotes the Council of Scientific Excellence; WSA denotes the Voivodeship Administrative Court. The distinction between an *order* (*postanowienie*) and a *decision* (*decyzja*) is retained throughout.

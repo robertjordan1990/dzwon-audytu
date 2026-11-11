@@ -2,8 +2,8 @@
 
 ## Non-identical versions of letters, the aim of “definitively removing from legal circulation” a habilitation resolution, and questions before service of the RDN decision
 
-**Author: Robert Jordan**  
-**Audit Bell — Part 1 · English reading translation · Draft for review**  
+**Author: Robert Jordan**\
+**Audit Bell — Part 1 · English reading translation · Draft for review**\
 Polish source: `dzwon-1.pdf`, TeX typesetting version **2026-05-08 v8.9j-final-candidate**.
 
 > **Translation and source note.** This is a reading translation of the dated Polish publication, not a report of developments after 8 May 2026. It translates the selectable narrative text and all 16 figure captions. Reproductions of official documents, screenshots, and other image content remain in the Polish source PDF; the captions below identify their original PDF pages. Those images have not been recreated or represented as English originals. Repeated running headers and page numbers are not repeated. One file reference is clipped at the right-hand edge of page 1 of the source; it is marked below rather than reconstructed. The Polish PDF remains the source publication.
